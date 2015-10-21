@@ -1,0 +1,48 @@
+body{
+background-color:gray;
+width:2000px;
+height:2000px;
+}
+#home
+{width:100%;
+height:38%;
+background-color:yellow;
+position:relative;
+margin:auto;
+background: url('http://www.hdwallpaperscool.com/wp-content/uploads/2015/05/life-high-resolution-wallpaper-download-life-images-free.jpg');
+background-size: cover;
+color: white;}
+h1{text-align:center;}
+#crap{width:200px;
+height:200px;
+background-color:red;
+position:fixed;
+margin:0;
+}
+ text-align: center;
+      background: url('http://www.hdwallpaperscool.com/wp-content/uploads/2015/05/life-high-resolution-wallpaper-download-life-images-free.jpg');
+      background-size: cover;
+      color: white;
+    }
+    a{
+      color: white;
+    }
+    h1 {
+      font-size: 70px;
+    }
+    img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+    }
+    ul {
+      padding: 10px;
+      background: black;
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;}
+	  html {
+	font-size: 62.5%;
+}
+
